@@ -26,3 +26,4 @@ public class finalproj
       System.out.println(randnum);
    }      
 }
+//enter in data and count to xyz
